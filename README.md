@@ -46,3 +46,20 @@
 - **Browse Meals:** Use the navigation bar to explore meals by category, area, or ingredients.
 - **Search Meals:** Use the search feature to quickly find specific meals based on keywords.
 - **Select a Meal:** Click on any meal to view its recipe, ingredients, and source.
+
+
+## Screenshots
+
+- **Home Page**:  
+  ![Home Page](https://github.com/hager9/yummy-React-js/blob/main/public/Images/Screenshot%202024-10-10%20022421.png)
+  
+  ![Home Page](https://github.com/hager9/yummy-React-js/blob/main/public/Images/Screenshot%202024-10-10%20022440.png)
+
+- **Category Page**:  
+  ![Category Page](https://github.com/hager9/yummy-React-js/blob/main/public/Images/Screenshot%202024-10-10%20022504.png)
+
+- **Search Page**:  
+  ![Search Page](https://github.com/hager9/yummy-React-js/blob/main/public/Images/Screenshot%202024-10-10%20022558.png)
+
+- **Recipe Details Page**:
+ ![Recipe Details Page](https://github.com/hager9/yummy-React-js/blob/main/public/Images/Screenshot%202024-10-10%20022825.png)
