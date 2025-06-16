@@ -1,19 +1,18 @@
-import React from 'react'
-import { Outlet } from 'react-router-dom'
-import Sidebar from '../Sidebar/Sidebar'
-import useNetwork from '../Hooks/useNetwork'
+import { Outlet } from "react-router-dom";
+import Sidebar from "../Sidebar/Sidebar";
+import useNetwork from "../Hooks/useNetwork";
 
 export default function Layout() {
+  const network = useNetwork();
 
-    const network = useNetwork();
+  return (
+    <>
+      <div className="container py-5 my-5">
+        <Outlet />
+        <div>{network}</div>
+      </div>
 
-    return <>
-        <div className="container py-5">
-            <Outlet />
-            <div>{ network }</div>
-        </div>
-        
-        <Sidebar />
-        
+      <Sidebar />
     </>
+  );
 }
