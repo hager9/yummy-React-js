@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yummy-React-js/static/css/main.c352b45d.css",
-    "main.js": "/yummy-React-js/static/js/main.b5a55264.js",
+    "main.js": "/yummy-React-js/static/js/main.b7325c13.js",
     "static/media/fa-solid-900.ttf": "/yummy-React-js/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/yummy-React-js/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
     "static/media/fa-solid-900.woff2": "/yummy-React-js/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
@@ -13,10 +13,10 @@
     "static/media/fa-v4compatibility.woff2": "/yummy-React-js/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/yummy-React-js/index.html",
     "main.c352b45d.css.map": "/yummy-React-js/static/css/main.c352b45d.css.map",
-    "main.b5a55264.js.map": "/yummy-React-js/static/js/main.b5a55264.js.map"
+    "main.b7325c13.js.map": "/yummy-React-js/static/js/main.b7325c13.js.map"
   },
   "entrypoints": [
     "static/css/main.c352b45d.css",
-    "static/js/main.b5a55264.js"
+    "static/js/main.b7325c13.js"
   ]
 }
