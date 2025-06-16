@@ -7,7 +7,7 @@ export default function Layout() {
 
   return (
     <>
-      <div className="container py-5 my-md-5">
+      <div className="container py-5 my-5 my-md-0">
         <Outlet />
         <div>{network}</div>
       </div>
