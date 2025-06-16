@@ -56,7 +56,7 @@ export default function Contact() {
         <meta name="description" content="yummy contact page" />
       </Helmet>
 
-      <div className="row g-4 -md-5">
+      <div className="row g-4 ps-md-5">
         <form onSubmit={formik.handleSubmit}>
           <div className="contact d-flex justify-content-center align-items-center min-vh-100">
             <div className="container text-center">

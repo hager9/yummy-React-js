@@ -22,7 +22,7 @@ export default function Ingredients() {
       {isLoading ? (
         <Loading />
       ) : (
-        <div className="row g-4 ps-5">
+        <div className="row g-4 ps-md-5">
           {data?.data.meals.map((ingredient) => (
             <div
               key={ingredient.idIngredient}
